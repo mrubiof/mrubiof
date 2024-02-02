@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/mrubiof/mrubiof/assets/147437862/f7023309-1b4a-41bc-93a3-71353781039d)
+
 
 <!--
 **mrubiof/mrubiof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
