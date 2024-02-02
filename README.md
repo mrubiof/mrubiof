@@ -1,7 +1,7 @@
 ### Hi there ![gatito](https://github.com/mrubiof/mrubiof/assets/147437862/e45f91bd-476d-40e8-9461-aaa9277f298a)
 
 ![mrubiof github stats](https://github-readme-stats.vercel.app/api?username=mrubiof&show_icons=true&theme=tokyonight)
-![mrubiof Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrubiof&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <!--
 **mrubiof/mrubiof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
