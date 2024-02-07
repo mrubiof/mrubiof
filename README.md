@@ -23,11 +23,7 @@
 
 <img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=java&logoColor=red" height="25">
 
-<img src="" height="25">
 
-<img src="" height="25">
-
-<img src="" height="25">
 
 </center>
 
@@ -48,6 +44,28 @@ My best code in Java:
         }
     }
 ~~~
+
+
+
+
+
+![mrubiof github stats](https://github-readme-stats.vercel.app/api?username=mrubiof&show_icons=true&theme=tokyonight)
+![mrubiof Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrubiof&theme=dracula)
+
+<!--
+**mrubiof/mrubiof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 
